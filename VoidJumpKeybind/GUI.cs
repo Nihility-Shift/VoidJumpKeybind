@@ -1,5 +1,5 @@
-﻿using UnityEngine;
-using VoidManager.CustomGUI;
+﻿using VoidManager.CustomGUI;
+using VoidManager.Utilities;
 
 namespace VoidJumpKeybind
 {
@@ -9,11 +9,7 @@ namespace VoidJumpKeybind
 
         public override void Draw()
         {
-            KeyCode keyCode = Configs.LeverPullConfig.Value;
-            if (IMGUIPrefabs.ChangeKeybindButton("Change Keybind", ref keyCode))
-            {
-                Configs.LeverPullConfig.Value = keyCode;
-            }
+            GUITools.DrawChangeKeybindButton("Change Void Jump Keybind", ref Configs.LeverPullConfig);
         }
     }
 }

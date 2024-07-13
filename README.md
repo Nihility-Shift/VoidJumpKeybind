@@ -1,13 +1,13 @@
 [![](https://img.shields.io/badge/-Void_Crew_Modding_Team-111111?style=just-the-label&logo=github&labelColor=24292f)](https://github.com/Void-Crew-Modding-Team)
-![](https://img.shields.io/badge/Game%20Version-0.26.1-111111?style=flat&labelColor=24292f&color=111111)
+![](https://img.shields.io/badge/Game%20Version-0.26.3-111111?style=flat&labelColor=24292f&color=111111)
 [![](https://img.shields.io/discord/1180651062550593536.svg?&logo=discord&logoColor=ffffff&style=flat&label=Discord&labelColor=24292f&color=111111)](https://discord.gg/g2u5wpbMGu "Void Crew Modding Discord")
 
 # VoidJumpKeybind
 
-Version 0.0.0  
-For Game Version 0.26.1  
+Version 0.0.1  
+For Game Version 0.26.3  
 Developed by 18107  
-Requires VoidManager 1.1.2
+Requires VoidManager 1.1.6
 
 
 ---------------------
@@ -23,7 +23,7 @@ Requires VoidManager 1.1.2
 ### 👥 Multiplayer Functionality
 
 - ✅ Client
-  - Does not affect other players
+  - This does not affect other players
 
 ---------------------
 
