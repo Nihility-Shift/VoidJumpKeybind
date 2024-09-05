@@ -5,13 +5,6 @@ using System.Reflection;
 
 namespace VoidJumpKeybind
 {
-    internal static class MyPluginInfo
-    {
-        internal const string PLUGIN_GUID = "id107.voidjumpkeybind";
-        internal const string PLUGIN_NAME = "VoidJumpKeybind";
-        internal const string PLUGIN_VERSION = "0.0.1";
-    }
-
     [BepInPlugin(MyPluginInfo.PLUGIN_GUID, MyPluginInfo.PLUGIN_NAME, MyPluginInfo.PLUGIN_VERSION)]
     [BepInProcess("Void Crew.exe")]
     [BepInDependency("VoidManager")]
