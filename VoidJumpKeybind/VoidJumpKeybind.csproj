@@ -3,7 +3,7 @@
     <TargetFramework>net472</TargetFramework>
     <AssemblyName>VoidJumpKeybind</AssemblyName>
     <Description>Adds a keybind for the pilot to activate the void jump lever, Client Side</Description>
-    <Version>0.0.2</Version>
+    <Version>0.0.3</Version>
     <AllowUnsafeBlocks>true</AllowUnsafeBlocks>
     <LangVersion>latest</LangVersion>
     <RestoreAdditionalProjectSources>
