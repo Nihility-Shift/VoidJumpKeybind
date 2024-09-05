@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.11.35222.181
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "VoidJumpKeybind", "VoidJumpKeybind\VoidJumpKeybind.csproj", "{C3359B23-94FE-4F68-A51E-2C2690BAE118}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{C3359B23-94FE-4F68-A51E-2C2690BAE118}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C3359B23-94FE-4F68-A51E-2C2690BAE118}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C3359B23-94FE-4F68-A51E-2C2690BAE118}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C3359B23-94FE-4F68-A51E-2C2690BAE118}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {853731F5-97E6-4271-9587-ABE4DD1EFB3D}
+	EndGlobalSection
+EndGlobal
