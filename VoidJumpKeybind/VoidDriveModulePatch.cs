@@ -13,8 +13,7 @@ namespace VoidJumpKeybind
     {
         private static bool isKeyPressed = false;
 
-        [HarmonyPostfix]
-        [HarmonyPatch("FixedUpdate")]
+        [HarmonyPatch("FixedUpdate"), HarmonyPostfix]
         static void FixedUpdate(VoidDriveModule __instance)
         {
             TakeoverChair chair = ClientGame.Current.PlayerShip?.GetModule<Helm>()?.Chair as TakeoverChair;

@@ -1,3 +1,6 @@
+## 0.0.4
+- Updated for Void Crew 1.1.0
+
 ## 0.0.3
 - Patched for VoidManager changes
 

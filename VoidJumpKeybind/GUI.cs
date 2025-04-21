@@ -5,7 +5,7 @@ namespace VoidJumpKeybind
 {
     internal class GUI : ModSettingsMenu
     {
-        public override string Name() => "Void Jump Keybind";
+        public override string Name() => MyPluginInfo.USERS_PLUGIN_NAME;
 
         public override void Draw()
         {
